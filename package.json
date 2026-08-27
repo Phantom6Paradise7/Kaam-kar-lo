@@ -1,7 +1,7 @@
 {
   "name": "not-personal-lmao",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000B\u0000l\u0000a\u0000n\u0000k\u0000_\u0000S\u0000t\u0000a\u0000r\u0000s\u0000\r\u0000 \u0000",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,11 +14,20 @@
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
+    "cookies": "^0.9.1",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "ejs": "^6.0.1",
     "express": "^5.2.1",
     "mongoose": "^9.9.4",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phantom6Paradise7/Blank_Stars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Phantom6Paradise7/Blank_Stars/issues"
+  },
+  "homepage": "https://github.com/Phantom6Paradise7/Blank_Stars#readme"
 }
